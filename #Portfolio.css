@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color:aqua;
+    color:aliceblue;
+    padding:20%
+}
+
+header h1{
+    margin:0;
+    font-size: 25px;
+}
+
+nav{
+    height:50px;
+    display:flex;
+    justify-content:center;
+}
+
+
+
+
+
+
+
+
